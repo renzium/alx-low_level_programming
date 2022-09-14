@@ -10,6 +10,7 @@ void print_alphabet_x10(void)
 {
 	int i = 1; 
 	char c;
+
 	while (i != 11)
 	{
 		for (c = 'a'; c <= 'z'; c++)
